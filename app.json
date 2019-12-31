@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/line/index",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#2dacfe",
+    "navigationBarTitleText": "微读互动群",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#2dacfe",
+    "list": [
+      {
+        "pagePath": "pages/line/index",
+        "text": "统 计",
+        "iconPath": "./icon/line-off.png",
+        "selectedIconPath": "./icon/line-on.png"
+      },
+      {
+        "pagePath": "pages/line/index",
+        "text": "喵 喵",
+        "iconPath": "./icon/cat-off.png",
+        "selectedIconPath": "./icon/cat-on.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

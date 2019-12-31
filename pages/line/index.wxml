@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="line-card-box">
+    <ff-canvas id="line-dom" canvas-id="line" opts="{{ opts }}"></ff-canvas>
+  </view>
+  <view class="line-icon-box">
+    
+  </view>
+</view>

@@ -1,0 +1,12 @@
+/* pages/chart/line/index.wxss */
+.line-card-box {
+  width: calc(100% - 40px);
+  height: calc(100% - 60px);
+  margin: 20px;
+  box-shadow: 2px 2px 4px 1px #31a9ff96, -2px 2px 4px 1px #31a9ff96, -2px -2px 4px 1px #31a9ff96, 2px -2px 4px 1px #31a9ff96;
+}
+
+ff-canvas {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "wdhd",
+  "version": "1.1.0",
+  "description": "wdhd",
+  "dependencies": {
+    "@antv/f2-canvas": "~1.0.5",
+    "@antv/wx-f2": "~1.1.4"
+  }
+}
